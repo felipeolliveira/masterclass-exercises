@@ -20,7 +20,8 @@
 
 ## App
 
-![animations.mp4](./assets/animations.mp4)
+![animations.mp4](./assets/animations.gif)
+
 ---
 
 [< Voltar](../README.md)
